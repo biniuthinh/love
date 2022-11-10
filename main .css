@@ -2,7 +2,7 @@
     position: relative;
     display: block;
     top: 38%;
-    left: 43%;
+    left: 40%;
 }
 
 .imglove{
@@ -10,4 +10,22 @@
     background-repeat: no-repeat;
     height: 1080px;
     max-width: 1080px;
+}
+@media screen  and (width: 600px) and (height: 667px) {
+    .love1{
+        position: relative;
+        display: block;
+        top: 200px;
+        left: 40%;
+    }
+    .imglove{
+        background: url('./z.jpg');
+        background-repeat: no-repeat;
+        position: relative;
+
+        top: 200px;
+        left: 43%;
+        height: 900px;
+        max-width: 900px;
+    }
 }
