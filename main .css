@@ -1,0 +1,13 @@
+.love1{
+    position: relative;
+    display: block;
+    top: 38%;
+    left: 43%;
+}
+
+.imglove{
+    background: url('./z.jpg');
+    background-repeat: no-repeat;
+    height: 1080px;
+    max-width: 1080px;
+}
